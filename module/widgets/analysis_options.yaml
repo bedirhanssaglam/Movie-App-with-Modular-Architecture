@@ -1,0 +1,11 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+linter:
+  rules:
+
+analyzer:
+  errors:
+    public_member_api_docs: ignore
+    always_put_required_named_parameters_first: ignore
+    sort_constructors_first: ignore
+    comment_references: ignore

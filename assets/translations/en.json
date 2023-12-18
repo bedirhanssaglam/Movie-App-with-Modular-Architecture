@@ -1,0 +1,41 @@
+{
+    "home": {
+        "appbar": {
+            "title": "Welcome to",
+            "subtitle": "Movie App!",
+            "dialog": {
+                "title": "Home Page",
+                "subtitle": "Here you can see the top ratad movies!"
+            }
+        },
+        "topRatedMovies": "Top Rated Movies",
+        "voteCount": "Vote count: {}",
+        "average": "Average: {}",
+        "error": "Error fetching top rated movies!"
+    },
+    "categories": {
+        "title": "Categories",
+        "error": "Error fetching categories!"
+    },
+    "discover": {
+        "pageName": "Discover",
+        "title": "Now Playing Movies",
+        "dialog": {
+            "subtitle": "Here you can see the movies currently in theaters!"
+        },
+        "error": "Error fetching now playing movies!"
+    },
+    "settings": {
+        "title": "Settings",
+        "languageOptions": "Language Options",
+        "darkMode": "Dark Mode"
+    },
+    "details": {
+        "popularity": "Popularity:",
+        "status": "Status:",
+        "voteCount": "Vote Count:",
+        "error": "Error fetching movie details!"
+    },
+    "emptyData": "This place looks empty.",
+    "nullData": "Something went wrong!"
+}

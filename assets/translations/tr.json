@@ -1,0 +1,41 @@
+{
+    "home": {
+        "appbar": {
+            "title": "Hoşgeldin!",
+            "subtitle": "Movie App",
+            "dialog": {
+                "title": "Ana Sayfa",
+                "subtitle": "Burada en çok oylanan filmleri görebilirsin!"
+            }
+        },
+        "topRatedMovies": "En çok oylanan filmler",
+        "voteCount": "Oy sayısı: {}",
+        "average": "Ortalama: {}",
+        "error": "En çok oylar getirilirken bir hata oluştu!"
+    },
+    "categories": {
+        "title": "Kategoriler",
+        "error": "Kategoriler getirilirken bir hata oluştu!"
+    },
+    "discover": {
+        "pageName": "Keşfet",
+        "title": "Vizyondaki Filmler",
+        "dialog": {
+            "subtitle": "Şu an vizyonda olan filmleri burada görebilirsiniz!"
+        },
+        "error": "Vizyondaki filmler getirilirken bir hata oluştu!"
+    },
+    "settings": {
+        "title": "Ayarlar",
+        "languageOptions": "Dil Seçenekleri",
+        "darkMode": "Karanlık Tema"
+    },
+    "details": {
+        "popularity": "Popülerlik:",
+        "status": "Durum:",
+        "voteCount": "Oylama Sayısı:",
+        "error": "Film detayları getirilirken bir hata oluştu!"
+    },
+    "emptyData": "Burası boş görünüyor.",
+    "nullData": "Hay aksi! Bir şeyler ters gitti!"
+}

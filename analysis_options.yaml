@@ -1,0 +1,15 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+linter:
+  rules:
+
+analyzer:
+  exclude:
+    - "/*.g.dart"
+    - "*.g.dart"
+    - "/*.gen.dart"
+    - "lib/generated_plugin_registrant.dart"
+  errors:
+    public_member_api_docs: ignore
+    comment_references: ignore
+    lines_longer_than_80_chars: ignore
