@@ -2,13 +2,14 @@
     <h1>Movie App with Modular Architecture in Flutter</h1>
 </div>
 
-###Proje Görselleri
+## Proje Görselleri
+
 <p float="left">
-  <img src="/documentation/home.png" width=140" />
-  <img src="/documentation/details.png" width="140" />
-  <img src="/documentation/categories.png" width="140" />
-  <img src="/documentation/dialog.png" width="140" />
-  <img src="/documentation/settings.png" width="140" />
+  <img src="/documentation/home.png" width=150" />
+  <img src="/documentation/details.png" width="150" />
+  <img src="/documentation/categories.png" width="150" />
+  <img src="/documentation/dialog.png" width="150" />
+  <img src="/documentation/settings.png" width="150" />
 </p>
 
 Bu proje, [Veli Bacik](https://github.com/VB10/architecture_template_v2) tarafından oluşturulan ve sunulan mimari template üzerine oluşturulmuştur. Template büyük oranda aynıdır fakat bazı farkılılıklar mevcuttur. Bu sebeple, burada farklı, eksik ya da hatalı olabilecek bir kod dizini/anlatım template sahibine mal edilmemelidir.
