@@ -375,7 +375,7 @@ enum AppEnvironmentItems {
   /// Network base url
   baseUrl,
 
-  /// Google maps api key
+  /// Movie api key
   apiKey;
 
   /// Get application environment item value
